@@ -4,7 +4,7 @@
 This project implements a Transformer-based sequence learning model in PyTorch for a letter counting task.
 The task: given a sequence of characters, the model predicts whether each character has appeared 0, 1, or ≥2 times before in the sequence.
 This demonstrates how attention-based architectures like Transformers can be applied to simple symbolic sequence tasks, serving as an educational introduction to self-attention, embeddings, and sequence modeling
-![b](https://github.com/Kartikay77/Transformer_NLP/blob/main/Transformer1.png)
+![b](https://github.com/Kartikay77/Transformer_NLP/blob/main/Trnasfoemer1.png)
 ![a](https://github.com/Kartikay77/Transformer_NLP/blob/main/Transformer2.png)
 
 ## 🚀 Features
